@@ -1,89 +1,85 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Bryce Barker's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
+<<<<<<< HEAD
+# Bryce Barker
+(502) 338-6770
+=======
 ## Education
+`Expected March 2023` __Brigham Young University-Idaho__
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+Business Management Operations, Supply Chain Emphasis
 
-- Full academic scholarship with 4.0 GPA
+Industrial Organizational Psychology Minor.
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+Pursuing Data Science Certificate.
 
 
-## Related Experience
+`August 2018 - December 2018` __Southern Virginia University__
 
-### Internships
+Business Management Operations
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+Starter on a Men's intercollegiate soccer team.
 
 
-## Service and Work History
+### Experience
+#### Accessibility Resource Center Team Lead
+Brigham Young University - Idaho
 
-`2025-2027`
-__Math Tutor__, LDSBC
+• Analyzed 30+ meticulous university courses each semester to ensure accessibility compliance for students with disabilities.
 
+• Collaborated daily with coworkers to designate and accomplish urgent tasks while maintaining quality of university course 
+material, resulting in establishment of a standard uniform document formatting for all documents edited.
 
-`2023-2025`
-__Service Missionary__, South Africa
+• Verified and suggested office processes to improve university material accessibility, a program with over 2,600 dependent 
+students.
 
+• Designed new employee training program, managed office project completion, and led a specialized team of 6+ document 
+specialists.
+
+##### Accredited Representative - Internship
+Fundacion No Mas Desconocido (Remote)
+
+• Acted as assigned trainer of new employees, taught navigation and use of practice's medical computer program, reducing 
+employee training program time by 50%.
+
+• Implemented biweekly bill processing system increasing delivery time of payments to headquarters by 100%.
+
+##### Administrative Assistant - Internship
+Alere Youth Development
+
+• Guided training conferences of 20+ mentors focused on establishing emotional support and developing relationships with troubled youth.
+
+### Leadership
+##### Vice President of the Pre-Law Society
+Brigham Young University - Idaho
+
+• Directed weekly event preparation and execution by inviting lawyers and legal professionals to present lectures.
+
+##### Assistant to the Santo Domingo East President
+
+Missionary, Church of Jesus Christ of Latter-Day Saints
+
+• Served in varying positions of leadership to teach and implement strategies to enhance organizational effectiveness, proselyting 
+effectiveness, and established 6 specific key indicators to improve accountability systems.
+
+• Selected to be assistant to head ecclesiastical leader over East portion of the Dominican Republic, compiled regional church 
+membership data, provided retention analysis, and created reports.
+
+• Directed more than 100 teenagers in life changing programs designed to maximize individual potential
+
+## Skills
+
+• Excel Spreadsheet Analysis for Business, Expert in pivot tables & slicers, complex if(functions), macros, Adv. Lookup functions, 
+etc. & MySQL.
+
+• Spanish (Fluent), English (Native).
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
 
 
