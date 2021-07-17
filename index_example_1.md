@@ -2,9 +2,10 @@
 layout: cv
 title: Bryce Barker's Resume
 ---
+<<<<<<< HEAD
 # Bryce Barker
 (502) 338-6770
-
+=======
 ## Education
 `Expected March 2023`
 __Brigham Young University-Idaho__
