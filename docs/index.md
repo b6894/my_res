@@ -15,12 +15,12 @@ Industrial Organizational Psychology Minor.
 
 Pursuing Data Science Certificate.
 
+## Skills
 
-`August 2018 - December 2018` __Southern Virginia University__
+• Excel Spreadsheet Analysis for Business, Expert in pivot tables & slicers, complex if(functions), macros, Adv. Lookup functions, 
+etc. & MySQL.
 
-Business Management Operations
-
-Starter on a Men's intercollegiate soccer team.
+• Spanish (Fluent), English (Native).
 
 
 ### Experience
@@ -69,12 +69,6 @@ membership data, provided retention analysis, and created reports.
 
 • Directed more than 100 teenagers in life changing programs designed to maximize individual potential
 
-## Skills
-
-• Excel Spreadsheet Analysis for Business, Expert in pivot tables & slicers, complex if(functions), macros, Adv. Lookup functions, 
-etc. & MySQL.
-
-• Spanish (Fluent), English (Native).
 
 
 <!-- ### Footer
